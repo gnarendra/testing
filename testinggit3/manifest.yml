@@ -1,0 +1,7 @@
+---
+applications:
+- name: testinggit3
+  memory: 800M
+  instances: 1
+  services:
+   - testinggit3-mongodb-0228956977
