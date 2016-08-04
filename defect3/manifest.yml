@@ -1,0 +1,7 @@
+---
+applications:
+- name: defect3
+  memory: 800M
+  instances: 1
+  services:
+   - defect3-mysql-0313810577
